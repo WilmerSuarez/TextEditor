@@ -4,7 +4,6 @@
 
 - [Introduction](#introduction)
 - [Instructions](#instructions)
-- [Demo Video](#demo-video)
 
 ## Introduction 
 
@@ -12,7 +11,7 @@ The text editor was implemented using MIPS assembly in MARS. It is similar to th
 
 ## Instructions
 
-- User msut specify the foreground and background color of the text.
+- User must specify the foreground and background color of the text.
 - User must specify the color of the highlighted words (foreground and background)
 - User can specify which words are keywords in the dict.asm file
 ![alt text](https://i.imgur.com/YwsyGbi.png)
